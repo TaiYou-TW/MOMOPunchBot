@@ -1,0 +1,14 @@
+# telegram
+TELEGRAM_BOT_TOKEN = ""
+TELEGRAM_ID = ""
+
+# momo
+ACCOUNT = ""
+PASSWORD = ""
+
+# config
+MSG_PREFIX = "[MOMO] "
+EVENT_PAGE_URL = "https://www.momoshop.com.tw/edm/cmmedm.jsp?lpn=O5kRdIJIOil"
+CONFIG_URL = "https://image.momoshop.com.tw/ecm/img/online/10/007/04/592/images/promo-cloud-setPunch-v003.js"
+RUN_AT_HOUR = 0
+SLEEP_INTERVAL_SECONDS = 3600
