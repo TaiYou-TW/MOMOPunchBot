@@ -1,4 +1,4 @@
 selenium==4.6.0
 requests==2.22.0
 python-telegram-bot==13.11
-numpy==1.19.2
+numpy==1.22.0
